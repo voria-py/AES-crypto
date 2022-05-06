@@ -17,7 +17,7 @@ GUI on gui folder : `gui.py`
 
 ## Screenshots
 
-![App Screenshot](https://github.com/amirkho-py/AES-crypto/blob/main/ScreenShot.png)
+![App Screenshot](https://github.com/amirkho-py/AES-crypto/blob/main/Screen%20Shot%202022-05-06%20at%2012.50.58.png)
 
 ## License
 
