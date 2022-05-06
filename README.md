@@ -21,4 +21,4 @@ GUI on gui folder : `gui.py`
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/amirkho-py/AES-crypto/blob/main/LICENSE)
